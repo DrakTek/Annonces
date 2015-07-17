@@ -1,0 +1,4 @@
+services:
+#    drak_annonces.example:
+#        class: Drak\AnnoncesBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
